@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "/public/Images/img/Health.png",
+        "title": "Clean Water For Children",
+        "category": "Health",
+        "category_bg": "#0052FF26",
+        "card_bg": "#0052FF33",
+        "text_button_bg": "#0052FF",
+        "description": "A stylish vintage leather jacket, perfect for any occasion. Made from high-quality leather with intricate stitching details.",
+        "price": "$199.99"
+    },
+    {
+        "id": 2,
+        "picture": "/public/Images/img/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A26",
+        "card_bg": "#FF444A33",
+        "text_button_bg": "#FF444A",
+        "description": "Add a touch of elegance to your home with this handcrafted wooden bowl. Made from sustainable wood, each piece is unique.",
+        "price": "$29.99"
+    },
+    {
+        "id": 3,
+        "picture": "/public/Images/img/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Stay comfortable and stylish with this organic cotton t-shirt. Breathable fabric and a classic design make it a wardrobe essential.",
+        "price": "$19.99"
+    },
+    {
+        "id": 4,
+        "picture": "/public/Images/img/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Create a relaxing atmosphere at home with this essential oil diffuser. Simply add your favorite oils and enjoy the calming aroma.",
+        "price": "$39.99"
+    },
+    {
+        "id": 5,
+        "picture": "/public/Images/img/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Take your music anywhere with this portable Bluetooth speaker. Compact design, long battery life, and powerful sound.",
+        "price": "$79.99"
+    },
+    {
+        "id": 6,
+        "picture": "/public/Images/img/Clothing.png",
+        "title": "Clean Water For Children",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Add a pop of color and texture to your living space with this rustic throw pillow. Soft fabric and charming design.",
+        "price": "$24.99"
+    },
+    {
+        "id": 7,
+        "picture": "/public/Images/img/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A26",
+        "card_bg": "#FF444A33",
+        "text_button_bg": "#FF444A",
+        "description": "Indulge in the rich flavor of these gourmet coffee beans. Freshly roasted and carefully selected for the perfect brew.",
+        "price": "$12.99"
+    },
+    {
+        "id": 8,
+        "picture": "/public/Images/img/Health.png",
+        "title": "Clean Water For Children",
+        "category": "Health",
+        "category_bg": "#0052FF26",
+        "card_bg": "#0052FF33",
+        "text_button_bg": "#0052FF",
+        "description": "Enhance your yoga practice with this premium yoga mat. Non-slip surface, eco-friendly materials, and easy to clean.",
+        "price": "$49.99"
+    },
+    {
+        "id": 9,
+        "picture": "/public/Images/img/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A26",
+        "card_bg": "#FF444A33",
+        "text_button_bg": "#FF444A",
+        "description": "Keep your smartphone secure and accessible with this adjustable smartphone stand. Perfect for hands-free use.",
+        "price": "$9.99"
+    },
+    {
+        "id": 10,
+        "picture": "/public/Images/img/Health.png",
+        "title": "Clean Water For Children",
+        "category": "Health",
+        "category_bg": "#0052FF26",
+        "card_bg": "#0052FF33",
+        "text_button_bg": "#0052FF",
+        "description": "Create a cozy ambiance with this scented candle. Infused with natural oils for a long-lasting and delightful fragrance.",
+        "price": "$14.99"
+    },
+    {
+        "id": 11,
+        "picture": "/public/Images/img/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Organize your essentials in style with this sleek leather wallet. Multiple compartments and RFID blocking technology.",
+        "price": "$34.99"
+    },
+    {
+        "id": 12,
+        "picture": "/public/Images/img/Clothing.png",
+        "title": "Clean Water For Children",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Stay hydrated on the go with this durable stainless steel water bottle. Double-wall insulation keeps drinks cold for hours.",
+        "price": "$19.99"
+    }
+]
