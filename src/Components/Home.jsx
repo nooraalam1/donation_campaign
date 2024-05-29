@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import SingleData from './SingleData';
@@ -23,6 +24,18 @@ const Home = () => {
                 }
             </div>
 
+=======
+import { useLoaderData } from "react-router-dom";
+import Banner from "./Banner";
+import CardList from "./CardList";
+
+const Home = () => {
+    const data = useLoaderData();
+    return (
+        <div className="mb-10">
+            <Banner data={data}></Banner>
+            {/* <CardList data={data}></CardList> */}
+>>>>>>> c9b1d4b (Responsive)
         </div>
     );
 };

@@ -7,8 +7,15 @@ export default {
   theme: {
     extend: {},
   },
+<<<<<<< HEAD
   plugins: [
     require('daisyui'),
   ],
+=======
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["light", "dark", "cupcake"],
+  },
+>>>>>>> c9b1d4b (Responsive)
 }
 
