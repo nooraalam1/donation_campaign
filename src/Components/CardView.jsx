@@ -1,4 +1,4 @@
-import { useLoaderData, useParams } from 'react-router-dom';
+import {NavLink, useLoaderData, useParams} from 'react-router-dom';
 
 const CardView = () => {
     const idd = useLoaderData();
@@ -8,10 +8,16 @@ const CardView = () => {
    
     return (
         <div className=''>
+         
           <div className='flex justify-center items-center'>
-          <img className="w-4/5 " src={Find.picture} alt="" />
+          <img className="w-4/5" src={Find.picture} alt="" />
           </div>
-          <div className="flex justify-center items-center">
+<div className="">
+<div className=" flex justify-center items-center ">
+<NavLink > <button className='w-48 h-16' style={{backgroundColor:`${Find.text_button_bg}`}}>Donate {Find.price}</button></NavLink>
+</div>   
+</div>       
+          <div className="flex justify-center items-center mt-7">
           <div className='w-4/5 '>
           <h1 className='text-3xl font-semibold my-3'>{Find.title}</h1>
           <h1 className='text-2xl'>{Find.description}</h1>

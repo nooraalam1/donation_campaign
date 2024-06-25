@@ -6,7 +6,8 @@ const SingleData = ({singleData}) => {
       console.log("Card Clicked",id);
     }
     return (
-      <button className="w-72 my-4 " onClick={()=>cardButton(id)}>
+    <div className="gap-5">
+        <button className="cw-72 my-4 " onClick={()=>cardButton(id)}>
         <NavLink className="" to={`/cardview/${id}`}>
          <div className="" style={{backgroundColor: `${category_bg}`}} >
         <div className="" >
@@ -20,6 +21,7 @@ const SingleData = ({singleData}) => {
        </div>
       </NavLink>
       </button>
+    </div>
     );
 };
 

@@ -1,5 +1,4 @@
-import React from 'react';
-import { useLoaderData, useParams } from 'react-router-dom';
+import { useLoaderData } from 'react-router-dom';
 import SingleData from './SingleData';
 
 const Home = () => {
